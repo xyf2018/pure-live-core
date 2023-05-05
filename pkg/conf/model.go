@@ -13,6 +13,7 @@ type huya struct {
 
 type douyu struct {
 	Enable bool `mapstructure:"enable"`
+	Host string `mapstructure:"host"`
 }
 
 type bilibili struct {

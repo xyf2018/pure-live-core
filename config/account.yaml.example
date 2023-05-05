@@ -10,3 +10,5 @@ huya:
   enable: false
 douyu:
   enable: false
+  # 斗鱼直播源主机部分
+  host: xxx
